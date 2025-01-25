@@ -1,0 +1,18 @@
+{"time":"2024-10-13T05:00:41.846938+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-13T05:00:41.846994+05:30","level":"INFO","msg":"created symlink","path":"/Users/adityakr/Library/CloudStorage/OneDrive-InternationalInstituteofInformationTechnology/Mac/Aditya_Files/IIITH/Sem5/SMAI/Assignments/smai-m24-assignments-Aditya-S-Kul/assignments/3/wandb/run-20241013_050041-ibdincmf/logs/debug-core.log"}
+{"time":"2024-10-13T05:00:41.847503+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-13T05:00:41.853546+05:30","level":"INFO","msg":"created new stream","id":"ibdincmf"}
+{"time":"2024-10-13T05:00:41.853586+05:30","level":"INFO","msg":"stream: started","id":"ibdincmf"}
+{"time":"2024-10-13T05:00:41.853622+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"ibdincmf"}}
+{"time":"2024-10-13T05:00:41.853594+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ibdincmf"}}
+{"time":"2024-10-13T05:00:41.853607+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"ibdincmf"}}
+{"time":"2024-10-13T05:00:42.213199+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T05:00:42.214176+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-13T05:00:42.363716+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-13T05:00:42.363758+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-13T05:00:44.957632+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-13T05:00:46.306604+05:30","level":"INFO","msg":"stream: closing","id":"ibdincmf"}
+{"time":"2024-10-13T05:00:46.306627+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"ibdincmf"}}
+{"time":"2024-10-13T05:00:46.306646+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"ibdincmf"}}
+{"time":"2024-10-13T05:00:46.30664+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ibdincmf"}}
+{"time":"2024-10-13T05:00:46.30674+05:30","level":"INFO","msg":"stream: closed","id":"ibdincmf"}

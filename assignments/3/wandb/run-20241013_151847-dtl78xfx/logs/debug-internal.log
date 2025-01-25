@@ -1,0 +1,18 @@
+{"time":"2024-10-13T15:18:47.610671+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-13T15:18:47.61072+05:30","level":"INFO","msg":"created symlink","path":"/Users/adityakr/Library/CloudStorage/OneDrive-InternationalInstituteofInformationTechnology/Mac/Aditya_Files/IIITH/Sem5/SMAI/Assignments/smai-m24-assignments-Aditya-S-Kul/assignments/3/wandb/run-20241013_151847-dtl78xfx/logs/debug-core.log"}
+{"time":"2024-10-13T15:18:47.612319+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-13T15:18:47.618174+05:30","level":"INFO","msg":"created new stream","id":"dtl78xfx"}
+{"time":"2024-10-13T15:18:47.618231+05:30","level":"INFO","msg":"stream: started","id":"dtl78xfx"}
+{"time":"2024-10-13T15:18:47.618245+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"dtl78xfx"}}
+{"time":"2024-10-13T15:18:47.618274+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"dtl78xfx"}}
+{"time":"2024-10-13T15:18:47.618253+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"dtl78xfx"}}
+{"time":"2024-10-13T15:18:48.020515+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T15:18:48.020957+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-13T15:18:48.066387+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-13T15:18:48.066422+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-13T15:18:50.139571+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-13T15:18:51.487415+05:30","level":"INFO","msg":"stream: closing","id":"dtl78xfx"}
+{"time":"2024-10-13T15:18:51.487438+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"dtl78xfx"}}
+{"time":"2024-10-13T15:18:51.487461+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"dtl78xfx"}}
+{"time":"2024-10-13T15:18:51.487452+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"dtl78xfx"}}
+{"time":"2024-10-13T15:18:51.48759+05:30","level":"INFO","msg":"stream: closed","id":"dtl78xfx"}

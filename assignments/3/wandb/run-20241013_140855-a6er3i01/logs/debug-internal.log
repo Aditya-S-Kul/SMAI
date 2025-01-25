@@ -1,0 +1,19 @@
+{"time":"2024-10-13T14:08:55.284366+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-13T14:08:55.284469+05:30","level":"INFO","msg":"created symlink","path":"/Users/adityakr/Library/CloudStorage/OneDrive-InternationalInstituteofInformationTechnology/Mac/Aditya_Files/IIITH/Sem5/SMAI/Assignments/smai-m24-assignments-Aditya-S-Kul/assignments/3/wandb/run-20241013_140855-a6er3i01/logs/debug-core.log"}
+{"time":"2024-10-13T14:08:55.285092+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-13T14:08:55.292068+05:30","level":"INFO","msg":"created new stream","id":"a6er3i01"}
+{"time":"2024-10-13T14:08:55.292102+05:30","level":"INFO","msg":"stream: started","id":"a6er3i01"}
+{"time":"2024-10-13T14:08:55.292108+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"a6er3i01"}}
+{"time":"2024-10-13T14:08:55.292127+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"a6er3i01"}}
+{"time":"2024-10-13T14:08:55.292116+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"a6er3i01"}}
+{"time":"2024-10-13T14:08:55.628492+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T14:08:55.628932+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-13T14:08:55.672256+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-13T14:08:55.672288+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-13T14:08:57.588827+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-13T14:08:58.662766+05:30","level":"INFO","msg":"stream: closing","id":"a6er3i01"}
+{"time":"2024-10-13T14:08:58.662793+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"a6er3i01"}}
+{"time":"2024-10-13T14:08:58.662795+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"a6er3i01"}}
+{"time":"2024-10-13T14:08:58.662814+05:30","level":"ERROR","msg":"sender: received Exit record more than once, ignoring"}
+{"time":"2024-10-13T14:08:58.663608+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"a6er3i01"}}
+{"time":"2024-10-13T14:08:58.663642+05:30","level":"INFO","msg":"stream: closed","id":"a6er3i01"}

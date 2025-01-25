@@ -1,0 +1,18 @@
+{"time":"2024-10-13T15:35:20.580445+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-13T15:35:20.580499+05:30","level":"INFO","msg":"created symlink","path":"/Users/adityakr/Library/CloudStorage/OneDrive-InternationalInstituteofInformationTechnology/Mac/Aditya_Files/IIITH/Sem5/SMAI/Assignments/smai-m24-assignments-Aditya-S-Kul/assignments/3/wandb/run-20241013_153520-wuf68av1/logs/debug-core.log"}
+{"time":"2024-10-13T15:35:20.582026+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-13T15:35:20.586893+05:30","level":"INFO","msg":"created new stream","id":"wuf68av1"}
+{"time":"2024-10-13T15:35:20.58692+05:30","level":"INFO","msg":"stream: started","id":"wuf68av1"}
+{"time":"2024-10-13T15:35:20.586945+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"wuf68av1"}}
+{"time":"2024-10-13T15:35:20.586938+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"wuf68av1"}}
+{"time":"2024-10-13T15:35:20.586931+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"wuf68av1"}}
+{"time":"2024-10-13T15:35:20.92941+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T15:35:20.930229+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-13T15:35:21.381449+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-13T15:35:21.381478+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-13T15:35:23.010364+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-13T15:35:24.34681+05:30","level":"INFO","msg":"stream: closing","id":"wuf68av1"}
+{"time":"2024-10-13T15:35:24.346875+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"wuf68av1"}}
+{"time":"2024-10-13T15:35:24.346892+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"wuf68av1"}}
+{"time":"2024-10-13T15:35:24.346887+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"wuf68av1"}}
+{"time":"2024-10-13T15:35:24.347016+05:30","level":"INFO","msg":"stream: closed","id":"wuf68av1"}

@@ -1,0 +1,18 @@
+{"time":"2024-10-13T05:38:51.38737+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-13T05:38:51.387438+05:30","level":"INFO","msg":"created symlink","path":"/Users/adityakr/Library/CloudStorage/OneDrive-InternationalInstituteofInformationTechnology/Mac/Aditya_Files/IIITH/Sem5/SMAI/Assignments/smai-m24-assignments-Aditya-S-Kul/assignments/3/wandb/run-20241013_053851-crq175nx/logs/debug-core.log"}
+{"time":"2024-10-13T05:38:51.388956+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-13T05:38:51.392813+05:30","level":"INFO","msg":"created new stream","id":"crq175nx"}
+{"time":"2024-10-13T05:38:51.392849+05:30","level":"INFO","msg":"stream: started","id":"crq175nx"}
+{"time":"2024-10-13T05:38:51.392879+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"crq175nx"}}
+{"time":"2024-10-13T05:38:51.392858+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"crq175nx"}}
+{"time":"2024-10-13T05:38:51.392866+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"crq175nx"}}
+{"time":"2024-10-13T05:38:51.74489+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T05:38:51.745641+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-13T05:38:51.921957+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-13T05:38:51.921998+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-13T05:38:54.486373+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-13T05:38:56.710691+05:30","level":"INFO","msg":"stream: closing","id":"crq175nx"}
+{"time":"2024-10-13T05:38:56.710761+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"crq175nx"}}
+{"time":"2024-10-13T05:38:56.71078+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"crq175nx"}}
+{"time":"2024-10-13T05:38:56.710786+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"crq175nx"}}
+{"time":"2024-10-13T05:38:56.710897+05:30","level":"INFO","msg":"stream: closed","id":"crq175nx"}

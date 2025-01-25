@@ -1,0 +1,2 @@
+layer_sizes:  [13, 10, 10, 1]
+Early stopping at epoch 76

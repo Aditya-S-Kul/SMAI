@@ -1,0 +1,18 @@
+{"time":"2024-10-13T14:45:18.254915+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-13T14:45:18.254971+05:30","level":"INFO","msg":"created symlink","path":"/Users/adityakr/Library/CloudStorage/OneDrive-InternationalInstituteofInformationTechnology/Mac/Aditya_Files/IIITH/Sem5/SMAI/Assignments/smai-m24-assignments-Aditya-S-Kul/assignments/3/wandb/run-20241013_144518-bvcg52og/logs/debug-core.log"}
+{"time":"2024-10-13T14:45:18.256736+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-13T14:45:18.260449+05:30","level":"INFO","msg":"created new stream","id":"bvcg52og"}
+{"time":"2024-10-13T14:45:18.26049+05:30","level":"INFO","msg":"stream: started","id":"bvcg52og"}
+{"time":"2024-10-13T14:45:18.260507+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"bvcg52og"}}
+{"time":"2024-10-13T14:45:18.260502+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"bvcg52og"}}
+{"time":"2024-10-13T14:45:18.260537+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"bvcg52og"}}
+{"time":"2024-10-13T14:45:18.597061+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T14:45:18.597656+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-13T14:45:19.590797+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-13T14:45:19.590827+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-13T14:45:21.13282+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-13T14:45:22.477064+05:30","level":"INFO","msg":"stream: closing","id":"bvcg52og"}
+{"time":"2024-10-13T14:45:22.477087+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"bvcg52og"}}
+{"time":"2024-10-13T14:45:22.47711+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"bvcg52og"}}
+{"time":"2024-10-13T14:45:22.477107+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"bvcg52og"}}
+{"time":"2024-10-13T14:45:22.477236+05:30","level":"INFO","msg":"stream: closed","id":"bvcg52og"}

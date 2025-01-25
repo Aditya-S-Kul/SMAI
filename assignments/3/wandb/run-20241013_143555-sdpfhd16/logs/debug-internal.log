@@ -1,0 +1,18 @@
+{"time":"2024-10-13T14:35:55.523746+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-13T14:35:55.523806+05:30","level":"INFO","msg":"created symlink","path":"/Users/adityakr/Library/CloudStorage/OneDrive-InternationalInstituteofInformationTechnology/Mac/Aditya_Files/IIITH/Sem5/SMAI/Assignments/smai-m24-assignments-Aditya-S-Kul/assignments/3/wandb/run-20241013_143555-sdpfhd16/logs/debug-core.log"}
+{"time":"2024-10-13T14:35:55.525404+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-13T14:35:55.529164+05:30","level":"INFO","msg":"created new stream","id":"sdpfhd16"}
+{"time":"2024-10-13T14:35:55.529197+05:30","level":"INFO","msg":"stream: started","id":"sdpfhd16"}
+{"time":"2024-10-13T14:35:55.52922+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"sdpfhd16"}}
+{"time":"2024-10-13T14:35:55.529206+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"sdpfhd16"}}
+{"time":"2024-10-13T14:35:55.529211+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"sdpfhd16"}}
+{"time":"2024-10-13T14:35:55.892277+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T14:35:55.892863+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-13T14:35:55.949296+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-13T14:35:55.949334+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-13T14:35:58.632829+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-13T14:35:59.98026+05:30","level":"INFO","msg":"stream: closing","id":"sdpfhd16"}
+{"time":"2024-10-13T14:35:59.980283+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"sdpfhd16"}}
+{"time":"2024-10-13T14:35:59.980305+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"sdpfhd16"}}
+{"time":"2024-10-13T14:35:59.980303+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"sdpfhd16"}}
+{"time":"2024-10-13T14:35:59.980459+05:30","level":"INFO","msg":"stream: closed","id":"sdpfhd16"}

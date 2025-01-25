@@ -1,0 +1,14 @@
+wandb_version: 1
+
+activation:
+  value: tanh
+epochs:
+  value: 100
+hidden_layers:
+  value:
+  - 20
+  - 15
+learning_rate:
+  value: 0.0008
+optimizer:
+  value: mini_batch

@@ -1,0 +1,18 @@
+{"time":"2024-10-13T05:56:14.184995+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-13T05:56:14.18506+05:30","level":"INFO","msg":"created symlink","path":"/Users/adityakr/Library/CloudStorage/OneDrive-InternationalInstituteofInformationTechnology/Mac/Aditya_Files/IIITH/Sem5/SMAI/Assignments/smai-m24-assignments-Aditya-S-Kul/assignments/3/wandb/run-20241013_055614-pszoqam1/logs/debug-core.log"}
+{"time":"2024-10-13T05:56:14.185538+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-13T05:56:14.190361+05:30","level":"INFO","msg":"created new stream","id":"pszoqam1"}
+{"time":"2024-10-13T05:56:14.190393+05:30","level":"INFO","msg":"stream: started","id":"pszoqam1"}
+{"time":"2024-10-13T05:56:14.190416+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"pszoqam1"}}
+{"time":"2024-10-13T05:56:14.190403+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"pszoqam1"}}
+{"time":"2024-10-13T05:56:14.190398+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"pszoqam1"}}
+{"time":"2024-10-13T05:56:14.52653+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T05:56:14.52782+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-13T05:56:15.092064+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-13T05:56:15.092087+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-13T05:56:17.325482+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-13T05:56:18.668119+05:30","level":"INFO","msg":"stream: closing","id":"pszoqam1"}
+{"time":"2024-10-13T05:56:18.668148+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"pszoqam1"}}
+{"time":"2024-10-13T05:56:18.668167+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"pszoqam1"}}
+{"time":"2024-10-13T05:56:18.668161+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"pszoqam1"}}
+{"time":"2024-10-13T05:56:18.6685+05:30","level":"INFO","msg":"stream: closed","id":"pszoqam1"}

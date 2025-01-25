@@ -1,0 +1,18 @@
+{"time":"2024-10-13T15:21:02.03715+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-13T15:21:02.037201+05:30","level":"INFO","msg":"created symlink","path":"/Users/adityakr/Library/CloudStorage/OneDrive-InternationalInstituteofInformationTechnology/Mac/Aditya_Files/IIITH/Sem5/SMAI/Assignments/smai-m24-assignments-Aditya-S-Kul/assignments/3/wandb/run-20241013_152102-ph2hilgc/logs/debug-core.log"}
+{"time":"2024-10-13T15:21:02.037652+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-13T15:21:02.043713+05:30","level":"INFO","msg":"created new stream","id":"ph2hilgc"}
+{"time":"2024-10-13T15:21:02.043773+05:30","level":"INFO","msg":"stream: started","id":"ph2hilgc"}
+{"time":"2024-10-13T15:21:02.043799+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"ph2hilgc"}}
+{"time":"2024-10-13T15:21:02.043784+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ph2hilgc"}}
+{"time":"2024-10-13T15:21:02.043822+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"ph2hilgc"}}
+{"time":"2024-10-13T15:21:02.393897+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T15:21:02.39431+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-13T15:21:02.454273+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-13T15:21:02.454307+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-13T15:21:04.4926+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-13T15:21:05.836261+05:30","level":"INFO","msg":"stream: closing","id":"ph2hilgc"}
+{"time":"2024-10-13T15:21:05.836286+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"ph2hilgc"}}
+{"time":"2024-10-13T15:21:05.836305+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"ph2hilgc"}}
+{"time":"2024-10-13T15:21:05.836299+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ph2hilgc"}}
+{"time":"2024-10-13T15:21:05.836425+05:30","level":"INFO","msg":"stream: closed","id":"ph2hilgc"}

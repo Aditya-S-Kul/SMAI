@@ -1,0 +1,18 @@
+{"time":"2024-10-13T04:31:14.64421+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-13T04:31:14.644241+05:30","level":"INFO","msg":"created symlink","path":"/Users/adityakr/Library/CloudStorage/OneDrive-InternationalInstituteofInformationTechnology/Mac/Aditya_Files/IIITH/Sem5/SMAI/Assignments/smai-m24-assignments-Aditya-S-Kul/assignments/3/wandb/run-20241013_043114-tsqondc2/logs/debug-core.log"}
+{"time":"2024-10-13T04:31:14.644507+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-13T04:31:14.649042+05:30","level":"INFO","msg":"created new stream","id":"tsqondc2"}
+{"time":"2024-10-13T04:31:14.649143+05:30","level":"INFO","msg":"stream: started","id":"tsqondc2"}
+{"time":"2024-10-13T04:31:14.649091+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"tsqondc2"}}
+{"time":"2024-10-13T04:31:14.649119+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"tsqondc2"}}
+{"time":"2024-10-13T04:31:14.649147+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"tsqondc2"}}
+{"time":"2024-10-13T04:31:15.082689+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T04:31:15.083143+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-13T04:31:15.986372+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-13T04:31:15.986398+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-13T04:31:18.126495+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-13T04:31:19.511138+05:30","level":"INFO","msg":"stream: closing","id":"tsqondc2"}
+{"time":"2024-10-13T04:31:19.511161+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"tsqondc2"}}
+{"time":"2024-10-13T04:31:19.511178+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"tsqondc2"}}
+{"time":"2024-10-13T04:31:19.511187+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"tsqondc2"}}
+{"time":"2024-10-13T04:31:19.511312+05:30","level":"INFO","msg":"stream: closed","id":"tsqondc2"}

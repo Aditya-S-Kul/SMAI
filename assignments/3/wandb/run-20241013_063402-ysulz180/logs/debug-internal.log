@@ -1,0 +1,18 @@
+{"time":"2024-10-13T06:34:02.560014+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-13T06:34:02.560074+05:30","level":"INFO","msg":"created symlink","path":"/Users/adityakr/Library/CloudStorage/OneDrive-InternationalInstituteofInformationTechnology/Mac/Aditya_Files/IIITH/Sem5/SMAI/Assignments/smai-m24-assignments-Aditya-S-Kul/assignments/3/wandb/run-20241013_063402-ysulz180/logs/debug-core.log"}
+{"time":"2024-10-13T06:34:02.561659+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-13T06:34:02.566267+05:30","level":"INFO","msg":"created new stream","id":"ysulz180"}
+{"time":"2024-10-13T06:34:02.566307+05:30","level":"INFO","msg":"stream: started","id":"ysulz180"}
+{"time":"2024-10-13T06:34:02.566327+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"ysulz180"}}
+{"time":"2024-10-13T06:34:02.566322+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"ysulz180"}}
+{"time":"2024-10-13T06:34:02.566316+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ysulz180"}}
+{"time":"2024-10-13T06:34:02.926096+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T06:34:02.926525+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-13T06:34:03.688001+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-13T06:34:03.688023+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-13T06:34:04.947333+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-13T06:34:06.299191+05:30","level":"INFO","msg":"stream: closing","id":"ysulz180"}
+{"time":"2024-10-13T06:34:06.299218+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"ysulz180"}}
+{"time":"2024-10-13T06:34:06.299239+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"ysulz180"}}
+{"time":"2024-10-13T06:34:06.299232+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ysulz180"}}
+{"time":"2024-10-13T06:34:06.299385+05:30","level":"INFO","msg":"stream: closed","id":"ysulz180"}

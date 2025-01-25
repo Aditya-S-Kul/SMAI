@@ -1,0 +1,18 @@
+{"time":"2024-10-13T03:53:31.449204+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-13T03:53:31.449242+05:30","level":"INFO","msg":"created symlink","path":"/Users/adityakr/Library/CloudStorage/OneDrive-InternationalInstituteofInformationTechnology/Mac/Aditya_Files/IIITH/Sem5/SMAI/Assignments/smai-m24-assignments-Aditya-S-Kul/assignments/3/wandb/run-20241013_035331-avedo1cc/logs/debug-core.log"}
+{"time":"2024-10-13T03:53:31.449526+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-13T03:53:31.454179+05:30","level":"INFO","msg":"created new stream","id":"avedo1cc"}
+{"time":"2024-10-13T03:53:31.454225+05:30","level":"INFO","msg":"stream: started","id":"avedo1cc"}
+{"time":"2024-10-13T03:53:31.454234+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"avedo1cc"}}
+{"time":"2024-10-13T03:53:31.454252+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"avedo1cc"}}
+{"time":"2024-10-13T03:53:31.454221+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"avedo1cc"}}
+{"time":"2024-10-13T03:53:31.809758+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T03:53:31.810188+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-13T03:53:31.914199+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-13T03:53:31.914242+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-13T03:53:34.584659+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-13T03:53:35.916411+05:30","level":"INFO","msg":"stream: closing","id":"avedo1cc"}
+{"time":"2024-10-13T03:53:35.916432+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"avedo1cc"}}
+{"time":"2024-10-13T03:53:35.916452+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"avedo1cc"}}
+{"time":"2024-10-13T03:53:35.916451+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"avedo1cc"}}
+{"time":"2024-10-13T03:53:35.916584+05:30","level":"INFO","msg":"stream: closed","id":"avedo1cc"}

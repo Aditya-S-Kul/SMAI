@@ -1,0 +1,11 @@
+layer_sizes:  [11, 20, 19, 6]
+Epoch 10/100, Loss: 0.2634
+Epoch 20/100, Loss: 0.2511
+Epoch 30/100, Loss: 0.2403
+Epoch 40/100, Loss: 0.2324
+Epoch 50/100, Loss: 0.2245
+Epoch 60/100, Loss: 0.2167
+Epoch 70/100, Loss: 0.2081
+Epoch 80/100, Loss: 0.1976
+Epoch 90/100, Loss: 0.1896
+Epoch 100/100, Loss: 0.1799

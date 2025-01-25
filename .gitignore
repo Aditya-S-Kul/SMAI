@@ -1,0 +1,12 @@
+# Ignore large model file
+assignments/4/best_model.pth
+assignments/5/best_ocr_model.pth
+assignments/5/hmm_digit_models.pkl
+
+# Ignore large CSV files
+data/interim/4/fashion_mnist/fashion-mnist_train_split.csv
+data/interim/4/fashion_mnist/fashion-mnist_train.csv
+
+
+# Ignore large dataset
+data/interim/5/OCR_dataset

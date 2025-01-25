@@ -1,0 +1,18 @@
+{"time":"2024-10-13T05:05:10.670787+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-13T05:05:10.670836+05:30","level":"INFO","msg":"created symlink","path":"/Users/adityakr/Library/CloudStorage/OneDrive-InternationalInstituteofInformationTechnology/Mac/Aditya_Files/IIITH/Sem5/SMAI/Assignments/smai-m24-assignments-Aditya-S-Kul/assignments/3/wandb/run-20241013_050510-vjukfa3d/logs/debug-core.log"}
+{"time":"2024-10-13T05:05:10.671325+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-13T05:05:10.676326+05:30","level":"INFO","msg":"created new stream","id":"vjukfa3d"}
+{"time":"2024-10-13T05:05:10.676359+05:30","level":"INFO","msg":"stream: started","id":"vjukfa3d"}
+{"time":"2024-10-13T05:05:10.676381+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"vjukfa3d"}}
+{"time":"2024-10-13T05:05:10.676369+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"vjukfa3d"}}
+{"time":"2024-10-13T05:05:10.676378+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"vjukfa3d"}}
+{"time":"2024-10-13T05:05:11.01433+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T05:05:11.015178+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-13T05:05:11.18708+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-13T05:05:11.18712+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-13T05:05:13.817133+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-13T05:05:15.147681+05:30","level":"INFO","msg":"stream: closing","id":"vjukfa3d"}
+{"time":"2024-10-13T05:05:15.147704+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"vjukfa3d"}}
+{"time":"2024-10-13T05:05:15.147728+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"vjukfa3d"}}
+{"time":"2024-10-13T05:05:15.147723+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"vjukfa3d"}}
+{"time":"2024-10-13T05:05:15.147833+05:30","level":"INFO","msg":"stream: closed","id":"vjukfa3d"}

@@ -1,0 +1,14 @@
+wandb_version: 1
+
+activation:
+  value: relu
+epochs:
+  value: 100
+hidden_layers:
+  value:
+  - 60
+  - 30
+learning_rate:
+  value: 0.1
+optimizer:
+  value: sgd

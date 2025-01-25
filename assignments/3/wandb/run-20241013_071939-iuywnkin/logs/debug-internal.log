@@ -1,0 +1,18 @@
+{"time":"2024-10-13T07:19:39.446935+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-13T07:19:39.446988+05:30","level":"INFO","msg":"created symlink","path":"/Users/adityakr/Library/CloudStorage/OneDrive-InternationalInstituteofInformationTechnology/Mac/Aditya_Files/IIITH/Sem5/SMAI/Assignments/smai-m24-assignments-Aditya-S-Kul/assignments/3/wandb/run-20241013_071939-iuywnkin/logs/debug-core.log"}
+{"time":"2024-10-13T07:19:39.448812+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-13T07:19:39.45388+05:30","level":"INFO","msg":"created new stream","id":"iuywnkin"}
+{"time":"2024-10-13T07:19:39.453923+05:30","level":"INFO","msg":"stream: started","id":"iuywnkin"}
+{"time":"2024-10-13T07:19:39.453949+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"iuywnkin"}}
+{"time":"2024-10-13T07:19:39.453961+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"iuywnkin"}}
+{"time":"2024-10-13T07:19:39.453936+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"iuywnkin"}}
+{"time":"2024-10-13T07:19:40.760998+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T07:19:40.76141+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-13T07:19:41.384652+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-13T07:19:41.384819+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-13T07:19:43.281212+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-13T07:19:44.626041+05:30","level":"INFO","msg":"stream: closing","id":"iuywnkin"}
+{"time":"2024-10-13T07:19:44.626064+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"iuywnkin"}}
+{"time":"2024-10-13T07:19:44.626086+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"iuywnkin"}}
+{"time":"2024-10-13T07:19:44.626083+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"iuywnkin"}}
+{"time":"2024-10-13T07:19:44.626214+05:30","level":"INFO","msg":"stream: closed","id":"iuywnkin"}

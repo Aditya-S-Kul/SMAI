@@ -1,0 +1,18 @@
+{"time":"2024-10-13T07:31:18.377064+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-13T07:31:18.377123+05:30","level":"INFO","msg":"created symlink","path":"/Users/adityakr/Library/CloudStorage/OneDrive-InternationalInstituteofInformationTechnology/Mac/Aditya_Files/IIITH/Sem5/SMAI/Assignments/smai-m24-assignments-Aditya-S-Kul/assignments/3/wandb/run-20241013_073118-lxw51fap/logs/debug-core.log"}
+{"time":"2024-10-13T07:31:18.378553+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-13T07:31:18.383319+05:30","level":"INFO","msg":"created new stream","id":"lxw51fap"}
+{"time":"2024-10-13T07:31:18.383349+05:30","level":"INFO","msg":"stream: started","id":"lxw51fap"}
+{"time":"2024-10-13T07:31:18.38336+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"lxw51fap"}}
+{"time":"2024-10-13T07:31:18.383355+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"lxw51fap"}}
+{"time":"2024-10-13T07:31:18.38342+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"lxw51fap"}}
+{"time":"2024-10-13T07:31:18.715302+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T07:31:18.715756+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-13T07:31:18.87865+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-13T07:31:18.878701+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-13T07:31:20.882276+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-13T07:31:22.211391+05:30","level":"INFO","msg":"stream: closing","id":"lxw51fap"}
+{"time":"2024-10-13T07:31:22.21142+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"lxw51fap"}}
+{"time":"2024-10-13T07:31:22.211458+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"lxw51fap"}}
+{"time":"2024-10-13T07:31:22.211443+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"lxw51fap"}}
+{"time":"2024-10-13T07:31:22.21158+05:30","level":"INFO","msg":"stream: closed","id":"lxw51fap"}

@@ -1,0 +1,18 @@
+{"time":"2024-10-13T15:49:47.138951+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-13T15:49:47.139003+05:30","level":"INFO","msg":"created symlink","path":"/Users/adityakr/Library/CloudStorage/OneDrive-InternationalInstituteofInformationTechnology/Mac/Aditya_Files/IIITH/Sem5/SMAI/Assignments/smai-m24-assignments-Aditya-S-Kul/assignments/3/wandb/run-20241013_154947-lto8tbls/logs/debug-core.log"}
+{"time":"2024-10-13T15:49:47.139479+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-13T15:49:47.145591+05:30","level":"INFO","msg":"created new stream","id":"lto8tbls"}
+{"time":"2024-10-13T15:49:47.145708+05:30","level":"INFO","msg":"stream: started","id":"lto8tbls"}
+{"time":"2024-10-13T15:49:47.145738+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"lto8tbls"}}
+{"time":"2024-10-13T15:49:47.145736+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"lto8tbls"}}
+{"time":"2024-10-13T15:49:47.145723+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"lto8tbls"}}
+{"time":"2024-10-13T15:49:47.494471+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T15:49:47.49533+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-13T15:49:47.776371+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-13T15:49:47.776404+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-13T15:49:50.193136+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-13T15:49:51.534789+05:30","level":"INFO","msg":"stream: closing","id":"lto8tbls"}
+{"time":"2024-10-13T15:49:51.534811+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"lto8tbls"}}
+{"time":"2024-10-13T15:49:51.534827+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"lto8tbls"}}
+{"time":"2024-10-13T15:49:51.534833+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"lto8tbls"}}
+{"time":"2024-10-13T15:49:51.534955+05:30","level":"INFO","msg":"stream: closed","id":"lto8tbls"}

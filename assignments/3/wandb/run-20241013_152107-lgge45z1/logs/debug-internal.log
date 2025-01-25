@@ -1,0 +1,18 @@
+{"time":"2024-10-13T15:21:07.889734+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-13T15:21:07.889791+05:30","level":"INFO","msg":"created symlink","path":"/Users/adityakr/Library/CloudStorage/OneDrive-InternationalInstituteofInformationTechnology/Mac/Aditya_Files/IIITH/Sem5/SMAI/Assignments/smai-m24-assignments-Aditya-S-Kul/assignments/3/wandb/run-20241013_152107-lgge45z1/logs/debug-core.log"}
+{"time":"2024-10-13T15:21:07.890278+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-13T15:21:07.896632+05:30","level":"INFO","msg":"created new stream","id":"lgge45z1"}
+{"time":"2024-10-13T15:21:07.8967+05:30","level":"INFO","msg":"stream: started","id":"lgge45z1"}
+{"time":"2024-10-13T15:21:07.896736+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"lgge45z1"}}
+{"time":"2024-10-13T15:21:07.896707+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"lgge45z1"}}
+{"time":"2024-10-13T15:21:07.896728+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"lgge45z1"}}
+{"time":"2024-10-13T15:21:08.250815+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T15:21:08.251215+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-13T15:21:08.756244+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-13T15:21:08.75627+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-13T15:21:10.940114+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-13T15:21:12.28151+05:30","level":"INFO","msg":"stream: closing","id":"lgge45z1"}
+{"time":"2024-10-13T15:21:12.281588+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"lgge45z1"}}
+{"time":"2024-10-13T15:21:12.281609+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"lgge45z1"}}
+{"time":"2024-10-13T15:21:12.28161+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"lgge45z1"}}
+{"time":"2024-10-13T15:21:12.281739+05:30","level":"INFO","msg":"stream: closed","id":"lgge45z1"}

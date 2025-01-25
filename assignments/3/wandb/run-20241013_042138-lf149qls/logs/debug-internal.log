@@ -1,0 +1,18 @@
+{"time":"2024-10-13T04:21:38.948139+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-13T04:21:38.948196+05:30","level":"INFO","msg":"created symlink","path":"/Users/adityakr/Library/CloudStorage/OneDrive-InternationalInstituteofInformationTechnology/Mac/Aditya_Files/IIITH/Sem5/SMAI/Assignments/smai-m24-assignments-Aditya-S-Kul/assignments/3/wandb/run-20241013_042138-lf149qls/logs/debug-core.log"}
+{"time":"2024-10-13T04:21:38.949784+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-13T04:21:38.955686+05:30","level":"INFO","msg":"created new stream","id":"lf149qls"}
+{"time":"2024-10-13T04:21:38.955714+05:30","level":"INFO","msg":"stream: started","id":"lf149qls"}
+{"time":"2024-10-13T04:21:38.955741+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"lf149qls"}}
+{"time":"2024-10-13T04:21:38.955733+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"lf149qls"}}
+{"time":"2024-10-13T04:21:38.955724+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"lf149qls"}}
+{"time":"2024-10-13T04:21:39.305227+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T04:21:39.305639+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-13T04:21:40.797006+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-13T04:21:40.79703+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-13T04:21:42.712865+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-13T04:21:44.04005+05:30","level":"INFO","msg":"stream: closing","id":"lf149qls"}
+{"time":"2024-10-13T04:21:44.04007+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"lf149qls"}}
+{"time":"2024-10-13T04:21:44.040091+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"lf149qls"}}
+{"time":"2024-10-13T04:21:44.040088+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"lf149qls"}}
+{"time":"2024-10-13T04:21:44.040226+05:30","level":"INFO","msg":"stream: closed","id":"lf149qls"}

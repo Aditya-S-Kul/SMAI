@@ -1,0 +1,18 @@
+{"time":"2024-10-13T16:14:25.115341+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-13T16:14:25.115395+05:30","level":"INFO","msg":"created symlink","path":"/Users/adityakr/Library/CloudStorage/OneDrive-InternationalInstituteofInformationTechnology/Mac/Aditya_Files/IIITH/Sem5/SMAI/Assignments/smai-m24-assignments-Aditya-S-Kul/assignments/3/wandb/run-20241013_161425-cd7dlepu/logs/debug-core.log"}
+{"time":"2024-10-13T16:14:25.116951+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-13T16:14:25.123189+05:30","level":"INFO","msg":"created new stream","id":"cd7dlepu"}
+{"time":"2024-10-13T16:14:25.123222+05:30","level":"INFO","msg":"stream: started","id":"cd7dlepu"}
+{"time":"2024-10-13T16:14:25.123234+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"cd7dlepu"}}
+{"time":"2024-10-13T16:14:25.123248+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"cd7dlepu"}}
+{"time":"2024-10-13T16:14:25.123237+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"cd7dlepu"}}
+{"time":"2024-10-13T16:14:25.471042+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T16:14:25.471921+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-13T16:14:25.666255+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-13T16:14:25.666288+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-13T16:14:27.515948+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-13T16:14:28.857406+05:30","level":"INFO","msg":"stream: closing","id":"cd7dlepu"}
+{"time":"2024-10-13T16:14:28.857429+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"cd7dlepu"}}
+{"time":"2024-10-13T16:14:28.85745+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"cd7dlepu"}}
+{"time":"2024-10-13T16:14:28.85746+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"cd7dlepu"}}
+{"time":"2024-10-13T16:14:28.85759+05:30","level":"INFO","msg":"stream: closed","id":"cd7dlepu"}

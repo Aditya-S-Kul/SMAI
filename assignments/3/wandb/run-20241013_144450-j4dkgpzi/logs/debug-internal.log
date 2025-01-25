@@ -1,0 +1,18 @@
+{"time":"2024-10-13T14:44:50.955426+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-13T14:44:50.955495+05:30","level":"INFO","msg":"created symlink","path":"/Users/adityakr/Library/CloudStorage/OneDrive-InternationalInstituteofInformationTechnology/Mac/Aditya_Files/IIITH/Sem5/SMAI/Assignments/smai-m24-assignments-Aditya-S-Kul/assignments/3/wandb/run-20241013_144450-j4dkgpzi/logs/debug-core.log"}
+{"time":"2024-10-13T14:44:50.955989+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-13T14:44:50.962059+05:30","level":"INFO","msg":"created new stream","id":"j4dkgpzi"}
+{"time":"2024-10-13T14:44:50.962097+05:30","level":"INFO","msg":"stream: started","id":"j4dkgpzi"}
+{"time":"2024-10-13T14:44:50.962126+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"j4dkgpzi"}}
+{"time":"2024-10-13T14:44:50.962114+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"j4dkgpzi"}}
+{"time":"2024-10-13T14:44:50.962105+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"j4dkgpzi"}}
+{"time":"2024-10-13T14:44:51.298389+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T14:44:51.298817+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-13T14:44:51.385309+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-13T14:44:51.385356+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-13T14:44:53.335503+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-13T14:44:54.676206+05:30","level":"INFO","msg":"stream: closing","id":"j4dkgpzi"}
+{"time":"2024-10-13T14:44:54.676237+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"j4dkgpzi"}}
+{"time":"2024-10-13T14:44:54.67626+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"j4dkgpzi"}}
+{"time":"2024-10-13T14:44:54.676252+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"j4dkgpzi"}}
+{"time":"2024-10-13T14:44:54.676363+05:30","level":"INFO","msg":"stream: closed","id":"j4dkgpzi"}

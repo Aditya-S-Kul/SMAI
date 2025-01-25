@@ -1,0 +1,18 @@
+{"time":"2024-10-13T05:54:21.659159+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-13T05:54:21.659216+05:30","level":"INFO","msg":"created symlink","path":"/Users/adityakr/Library/CloudStorage/OneDrive-InternationalInstituteofInformationTechnology/Mac/Aditya_Files/IIITH/Sem5/SMAI/Assignments/smai-m24-assignments-Aditya-S-Kul/assignments/3/wandb/run-20241013_055421-v8ospxec/logs/debug-core.log"}
+{"time":"2024-10-13T05:54:21.660786+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-13T05:54:21.664744+05:30","level":"INFO","msg":"created new stream","id":"v8ospxec"}
+{"time":"2024-10-13T05:54:21.664772+05:30","level":"INFO","msg":"stream: started","id":"v8ospxec"}
+{"time":"2024-10-13T05:54:21.664781+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"v8ospxec"}}
+{"time":"2024-10-13T05:54:21.664805+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"v8ospxec"}}
+{"time":"2024-10-13T05:54:21.664786+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"v8ospxec"}}
+{"time":"2024-10-13T05:54:21.998096+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T05:54:21.998558+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-13T05:54:22.247262+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-13T05:54:22.247298+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-13T05:54:24.740391+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-13T05:54:26.750722+05:30","level":"INFO","msg":"stream: closing","id":"v8ospxec"}
+{"time":"2024-10-13T05:54:26.750788+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"v8ospxec"}}
+{"time":"2024-10-13T05:54:26.750812+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"v8ospxec"}}
+{"time":"2024-10-13T05:54:26.750807+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"v8ospxec"}}
+{"time":"2024-10-13T05:54:26.750899+05:30","level":"INFO","msg":"stream: closed","id":"v8ospxec"}

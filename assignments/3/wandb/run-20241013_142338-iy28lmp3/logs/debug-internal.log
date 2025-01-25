@@ -1,0 +1,18 @@
+{"time":"2024-10-13T14:23:38.055977+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-13T14:23:38.056045+05:30","level":"INFO","msg":"created symlink","path":"/Users/adityakr/Library/CloudStorage/OneDrive-InternationalInstituteofInformationTechnology/Mac/Aditya_Files/IIITH/Sem5/SMAI/Assignments/smai-m24-assignments-Aditya-S-Kul/assignments/3/wandb/run-20241013_142338-iy28lmp3/logs/debug-core.log"}
+{"time":"2024-10-13T14:23:38.057717+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-13T14:23:38.063121+05:30","level":"INFO","msg":"created new stream","id":"iy28lmp3"}
+{"time":"2024-10-13T14:23:38.063151+05:30","level":"INFO","msg":"stream: started","id":"iy28lmp3"}
+{"time":"2024-10-13T14:23:38.063169+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"iy28lmp3"}}
+{"time":"2024-10-13T14:23:38.063174+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"iy28lmp3"}}
+{"time":"2024-10-13T14:23:38.063161+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"iy28lmp3"}}
+{"time":"2024-10-13T14:23:38.423638+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T14:23:38.424089+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-13T14:23:38.47958+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-13T14:23:38.479641+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-13T14:23:42.573637+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-13T14:23:43.921549+05:30","level":"INFO","msg":"stream: closing","id":"iy28lmp3"}
+{"time":"2024-10-13T14:23:43.921574+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"iy28lmp3"}}
+{"time":"2024-10-13T14:23:43.9216+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"iy28lmp3"}}
+{"time":"2024-10-13T14:23:43.921592+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"iy28lmp3"}}
+{"time":"2024-10-13T14:23:43.921707+05:30","level":"INFO","msg":"stream: closed","id":"iy28lmp3"}

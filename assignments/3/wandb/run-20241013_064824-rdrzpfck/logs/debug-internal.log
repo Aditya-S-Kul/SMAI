@@ -1,0 +1,18 @@
+{"time":"2024-10-13T06:48:24.550383+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-13T06:48:24.550432+05:30","level":"INFO","msg":"created symlink","path":"/Users/adityakr/Library/CloudStorage/OneDrive-InternationalInstituteofInformationTechnology/Mac/Aditya_Files/IIITH/Sem5/SMAI/Assignments/smai-m24-assignments-Aditya-S-Kul/assignments/3/wandb/run-20241013_064824-rdrzpfck/logs/debug-core.log"}
+{"time":"2024-10-13T06:48:24.550887+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-13T06:48:24.556282+05:30","level":"INFO","msg":"created new stream","id":"rdrzpfck"}
+{"time":"2024-10-13T06:48:24.556318+05:30","level":"INFO","msg":"stream: started","id":"rdrzpfck"}
+{"time":"2024-10-13T06:48:24.556341+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"rdrzpfck"}}
+{"time":"2024-10-13T06:48:24.556338+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"rdrzpfck"}}
+{"time":"2024-10-13T06:48:24.556327+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"rdrzpfck"}}
+{"time":"2024-10-13T06:48:25.59616+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T06:48:25.596618+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-13T06:48:25.868061+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-13T06:48:25.868096+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-13T06:48:27.679532+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-13T06:48:29.033299+05:30","level":"INFO","msg":"stream: closing","id":"rdrzpfck"}
+{"time":"2024-10-13T06:48:29.033322+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"rdrzpfck"}}
+{"time":"2024-10-13T06:48:29.033342+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"rdrzpfck"}}
+{"time":"2024-10-13T06:48:29.033337+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"rdrzpfck"}}
+{"time":"2024-10-13T06:48:29.03347+05:30","level":"INFO","msg":"stream: closed","id":"rdrzpfck"}

@@ -1,0 +1,18 @@
+{"time":"2024-10-13T07:49:40.805099+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-13T07:49:40.80522+05:30","level":"INFO","msg":"created symlink","path":"/Users/adityakr/Library/CloudStorage/OneDrive-InternationalInstituteofInformationTechnology/Mac/Aditya_Files/IIITH/Sem5/SMAI/Assignments/smai-m24-assignments-Aditya-S-Kul/assignments/3/wandb/run-20241013_074940-qaearivc/logs/debug-core.log"}
+{"time":"2024-10-13T07:49:40.80936+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-13T07:49:40.824584+05:30","level":"INFO","msg":"created new stream","id":"qaearivc"}
+{"time":"2024-10-13T07:49:40.824724+05:30","level":"INFO","msg":"stream: started","id":"qaearivc"}
+{"time":"2024-10-13T07:49:40.824829+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"qaearivc"}}
+{"time":"2024-10-13T07:49:40.824742+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"qaearivc"}}
+{"time":"2024-10-13T07:49:40.82488+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"qaearivc"}}
+{"time":"2024-10-13T07:49:41.204267+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T07:49:41.206197+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-13T07:49:42.691189+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-13T07:49:42.691324+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-13T07:49:43.849699+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-13T07:49:45.215011+05:30","level":"INFO","msg":"stream: closing","id":"qaearivc"}
+{"time":"2024-10-13T07:49:45.215081+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"qaearivc"}}
+{"time":"2024-10-13T07:49:45.215168+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"qaearivc"}}
+{"time":"2024-10-13T07:49:45.21515+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"qaearivc"}}
+{"time":"2024-10-13T07:49:45.215512+05:30","level":"INFO","msg":"stream: closed","id":"qaearivc"}

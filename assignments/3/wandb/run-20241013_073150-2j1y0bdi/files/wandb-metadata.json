@@ -1,0 +1,17 @@
+{
+  "os":  "macOS-14.6.1-arm64-arm-64bit",
+  "python":  "3.12.3",
+  "startedAt":  "2024-10-13T02:01:50.366590Z",
+  "program":  "/Users/adityakr/Library/CloudStorage/OneDrive-InternationalInstituteofInformationTechnology/Mac/Aditya_Files/IIITH/Sem5/SMAI/Assignments/smai-m24-assignments-Aditya-S-Kul/assignments/3/a3.py",
+  "codePath":  "assignments/3/a3.py",
+  "git":  {
+    "remote":  "git@github.com:smai-monsoon-24/smai-m24-assignments-Aditya-S-Kul.git",
+    "commit":  "f89d9f176ee087517cd274089f593bd29fd19deb"
+  },
+  "email":  "aditya.kulkarni.soc@gmail.com",
+  "root":  "/Users/adityakr/Library/CloudStorage/OneDrive-InternationalInstituteofInformationTechnology/Mac/Aditya_Files/IIITH/Sem5/SMAI/Assignments/smai-m24-assignments-Aditya-S-Kul/assignments/3",
+  "host":  "Adityas-MacBook-Pro.local",
+  "username":  "adityakr",
+  "executable":  "/opt/homebrew/opt/python@3.12/bin/python3.12",
+  "codePathLocal":  "a3.py"
+}

@@ -1,0 +1,18 @@
+{"time":"2024-10-13T05:20:02.22815+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-13T05:20:02.22821+05:30","level":"INFO","msg":"created symlink","path":"/Users/adityakr/Library/CloudStorage/OneDrive-InternationalInstituteofInformationTechnology/Mac/Aditya_Files/IIITH/Sem5/SMAI/Assignments/smai-m24-assignments-Aditya-S-Kul/assignments/3/wandb/run-20241013_052002-giac518r/logs/debug-core.log"}
+{"time":"2024-10-13T05:20:02.228673+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-13T05:20:02.233134+05:30","level":"INFO","msg":"created new stream","id":"giac518r"}
+{"time":"2024-10-13T05:20:02.23316+05:30","level":"INFO","msg":"stream: started","id":"giac518r"}
+{"time":"2024-10-13T05:20:02.233164+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"giac518r"}}
+{"time":"2024-10-13T05:20:02.233186+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"giac518r"}}
+{"time":"2024-10-13T05:20:02.233168+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"giac518r"}}
+{"time":"2024-10-13T05:20:02.571853+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T05:20:02.572269+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-13T05:20:02.64855+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-13T05:20:02.648589+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-13T05:20:05.393867+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-13T05:20:06.719946+05:30","level":"INFO","msg":"stream: closing","id":"giac518r"}
+{"time":"2024-10-13T05:20:06.719968+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"giac518r"}}
+{"time":"2024-10-13T05:20:06.719987+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"giac518r"}}
+{"time":"2024-10-13T05:20:06.719982+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"giac518r"}}
+{"time":"2024-10-13T05:20:06.720084+05:30","level":"INFO","msg":"stream: closed","id":"giac518r"}

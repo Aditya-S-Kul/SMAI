@@ -1,0 +1,18 @@
+{"time":"2024-10-13T16:27:38.354814+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-13T16:27:38.35487+05:30","level":"INFO","msg":"created symlink","path":"/Users/adityakr/Library/CloudStorage/OneDrive-InternationalInstituteofInformationTechnology/Mac/Aditya_Files/IIITH/Sem5/SMAI/Assignments/smai-m24-assignments-Aditya-S-Kul/assignments/3/wandb/run-20241013_162738-gllanxoi/logs/debug-core.log"}
+{"time":"2024-10-13T16:27:38.356453+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-13T16:27:38.362694+05:30","level":"INFO","msg":"created new stream","id":"gllanxoi"}
+{"time":"2024-10-13T16:27:38.362728+05:30","level":"INFO","msg":"stream: started","id":"gllanxoi"}
+{"time":"2024-10-13T16:27:38.362743+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"gllanxoi"}}
+{"time":"2024-10-13T16:27:38.362735+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"gllanxoi"}}
+{"time":"2024-10-13T16:27:38.362766+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"gllanxoi"}}
+{"time":"2024-10-13T16:27:38.714438+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T16:27:38.7149+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-13T16:27:38.83208+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-13T16:27:38.832127+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-13T16:27:41.786423+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-13T16:27:43.133455+05:30","level":"INFO","msg":"stream: closing","id":"gllanxoi"}
+{"time":"2024-10-13T16:27:43.133491+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"gllanxoi"}}
+{"time":"2024-10-13T16:27:43.133503+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"gllanxoi"}}
+{"time":"2024-10-13T16:27:43.133518+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"gllanxoi"}}
+{"time":"2024-10-13T16:27:43.133661+05:30","level":"INFO","msg":"stream: closed","id":"gllanxoi"}

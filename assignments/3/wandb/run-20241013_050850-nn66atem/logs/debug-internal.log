@@ -1,0 +1,18 @@
+{"time":"2024-10-13T05:08:50.129408+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-13T05:08:50.129504+05:30","level":"INFO","msg":"created symlink","path":"/Users/adityakr/Library/CloudStorage/OneDrive-InternationalInstituteofInformationTechnology/Mac/Aditya_Files/IIITH/Sem5/SMAI/Assignments/smai-m24-assignments-Aditya-S-Kul/assignments/3/wandb/run-20241013_050850-nn66atem/logs/debug-core.log"}
+{"time":"2024-10-13T05:08:50.130079+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-13T05:08:50.134787+05:30","level":"INFO","msg":"created new stream","id":"nn66atem"}
+{"time":"2024-10-13T05:08:50.13484+05:30","level":"INFO","msg":"stream: started","id":"nn66atem"}
+{"time":"2024-10-13T05:08:50.134866+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"nn66atem"}}
+{"time":"2024-10-13T05:08:50.134852+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"nn66atem"}}
+{"time":"2024-10-13T05:08:50.134845+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"nn66atem"}}
+{"time":"2024-10-13T05:08:50.498504+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T05:08:50.498925+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-13T05:08:52.330423+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-13T05:08:52.33045+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-13T05:08:54.24779+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-13T05:08:55.581784+05:30","level":"INFO","msg":"stream: closing","id":"nn66atem"}
+{"time":"2024-10-13T05:08:55.581805+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"nn66atem"}}
+{"time":"2024-10-13T05:08:55.581825+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"nn66atem"}}
+{"time":"2024-10-13T05:08:55.581821+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"nn66atem"}}
+{"time":"2024-10-13T05:08:55.581959+05:30","level":"INFO","msg":"stream: closed","id":"nn66atem"}

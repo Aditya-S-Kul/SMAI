@@ -1,0 +1,18 @@
+{"time":"2024-10-13T04:44:27.885806+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-13T04:44:27.885833+05:30","level":"INFO","msg":"created symlink","path":"/Users/adityakr/Library/CloudStorage/OneDrive-InternationalInstituteofInformationTechnology/Mac/Aditya_Files/IIITH/Sem5/SMAI/Assignments/smai-m24-assignments-Aditya-S-Kul/assignments/3/wandb/run-20241013_044427-pydjptxm/logs/debug-core.log"}
+{"time":"2024-10-13T04:44:27.886939+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-13T04:44:27.890652+05:30","level":"INFO","msg":"created new stream","id":"pydjptxm"}
+{"time":"2024-10-13T04:44:27.890686+05:30","level":"INFO","msg":"stream: started","id":"pydjptxm"}
+{"time":"2024-10-13T04:44:27.890711+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"pydjptxm"}}
+{"time":"2024-10-13T04:44:27.89069+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"pydjptxm"}}
+{"time":"2024-10-13T04:44:27.890697+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"pydjptxm"}}
+{"time":"2024-10-13T04:44:28.239748+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T04:44:28.240184+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-13T04:44:28.630203+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-13T04:44:28.630227+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-13T04:44:31.025811+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-13T04:44:32.442333+05:30","level":"INFO","msg":"stream: closing","id":"pydjptxm"}
+{"time":"2024-10-13T04:44:32.442347+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"pydjptxm"}}
+{"time":"2024-10-13T04:44:32.442364+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"pydjptxm"}}
+{"time":"2024-10-13T04:44:32.442396+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"pydjptxm"}}
+{"time":"2024-10-13T04:44:32.442475+05:30","level":"INFO","msg":"stream: closed","id":"pydjptxm"}
